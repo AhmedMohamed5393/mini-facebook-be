@@ -7,6 +7,6 @@ import { JwtModule } from '@nestjs/jwt';
     ],
     controllers: [PostController],
 })
-export class eTemplatModule {
+export class PostModule {
     configure(consumer: MiddlewareConsumer) {}
 }
