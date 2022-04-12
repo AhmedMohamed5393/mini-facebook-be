@@ -1,7 +1,7 @@
 {
-  "name": "template-nest-be",
+  "name": "mini-facebook-be",
   "version": "0.0.0",
-  "description": "Template backend system using Node.js and Nest.js",
+  "description": "Mini Facebook backend system using Node.js and Nest.js",
   "author": "Ahmed Mohamed",
   "private": true,
   "license": "UNLICENSED",
@@ -84,10 +84,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AhmedMohamed5393/template-nest-be.git"
+    "url": "git+https://github.com/AhmedMohamed5393/mini-facebook-be.git"
   },
   "bugs": {
-    "url": "https://github.com/AhmedMohamed5393/template-nest-be/issues"
+    "url": "https://github.com/AhmedMohamed5393/mini-facebook-be/issues"
   },
-  "homepage": "https://github.com/AhmedMohamed5393/template-nest-be#readme"
+  "homepage": "https://github.com/AhmedMohamed5393/mini-facebook-be#readme"
 }

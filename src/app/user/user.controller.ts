@@ -1,6 +1,6 @@
 import { Controller } from "@nestjs/common";
-const tag = "template-be:template:controller";
+const tag = "mini-facebook-be:user:controller";
 @Controller("")
-export class TemplateController {
+export class UserController {
     constructor () {}
 }

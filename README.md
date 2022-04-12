@@ -1,5 +1,5 @@
-# template-nest-be
-Template backend system using Node.js and Nest.js
+# mini-facebook-be
+Mini Facebook backend system using Node.js and Nest.js
 
 # note
 1. You will find the needed environmental variables for running the application in .env.sample file but without their values
